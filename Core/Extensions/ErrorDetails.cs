@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Core.Extensions
-{
+{ //commit
     public class ErrorDetails
     {
         public string Message { get; set; }
